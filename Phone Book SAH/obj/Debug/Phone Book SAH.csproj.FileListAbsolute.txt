@@ -1,0 +1,13 @@
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\bin\Debug\Phonebook.mdf
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\bin\Debug\Phonebook_log.ldf
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\bin\Debug\Phone Book SAH.exe.config
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\bin\Debug\Phone Book SAH.exe
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\bin\Debug\Phone Book SAH.pdb
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone Book SAH.csprojAssemblyReference.cache
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone_Book_SAH.Form1.resources
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone_Book_SAH.Properties.Resources.resources
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone Book SAH.csproj.GenerateResource.cache
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone Book SAH.csproj.CoreCompileInputs.cache
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone Book SAH.exe
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone Book SAH.pdb
+F:\visual projeckt\Phone Book SAH\Phone Book SAH\obj\Debug\Phone_Book_SAH.AboutBox1.resources
